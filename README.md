@@ -10,10 +10,10 @@ Execute Program using: ./main
 
 Result:
 
-root@kali:~/Desktop/smashstack# ./main lessthantwentyfive
+cly@kali:~/Desktop/smashstack# ./main lessthantwentyfive
 lessthantwentyfive
 
-root@kali:~/Desktop/smashstack# ./main morethantwentyfivecharacters
+cly@kali:~/Desktop/smashstack# ./main morethantwentyfivecharacters
 morethantwentyfivecharacters
 
 *** stack smashing detected ***: <unknown> terminated
