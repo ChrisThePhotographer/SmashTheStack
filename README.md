@@ -10,8 +10,6 @@ Execute Program using: ./main
 
 Result:
 
-root@kali:~/Desktop/smashstack# chmod +x smashstack.sh
-root@kali:~/Desktop/smashstack# ./smashstack.sh
 root@kali:~/Desktop/smashstack# ./main lessthantwentyfive
 lessthantwentyfive
 root@kali:~/Desktop/smashstack# ./main morethantwentyfivecharacters
