@@ -12,8 +12,10 @@ Result:
 
 root@kali:~/Desktop/smashstack# ./main lessthantwentyfive
 lessthantwentyfive
+
 root@kali:~/Desktop/smashstack# ./main morethantwentyfivecharacters
 morethantwentyfivecharacters
+
 *** stack smashing detected ***: <unknown> terminated
 Aborted
 
